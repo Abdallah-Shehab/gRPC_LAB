@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITI.Grpc.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0564a76a2170b9ce0eb071877689b6164fcbed01")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITI.Grpc.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITI.Grpc.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -78,6 +78,7 @@ namespace ITI.Grpc.Server.Services
 
             return await Task.FromResult(product);
         }
+        [Authorize(AuthenticationSchemes = Consts.ApiKeySchemeName)]
 
         public override async Task<productsNumber> AddBulkProducts(IAsyncStreamReader<Product> requestStream, ServerCallContext context)
         {
@@ -91,6 +92,7 @@ namespace ITI.Grpc.Server.Services
             return await Task.FromResult(new productsNumber { Count = count });
 
         }
+        [Authorize(AuthenticationSchemes = Consts.ApiKeySchemeName)]
 
         public override async Task GetProductReport(Empty request, IServerStreamWriter<Product> responseStream, ServerCallContext context)
         {

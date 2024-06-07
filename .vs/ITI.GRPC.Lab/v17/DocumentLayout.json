@@ -3,55 +3,55 @@
   "WorkspaceRootPath": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\services\\inventroyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\inventroyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.client\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\services\\inventroyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\inventroyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.client\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.client\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.client\\services\\apikeyproviderserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.client\\services\\apikeyproviderserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\services\\apikeyproviderserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.client\\services\\iapikeyproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.client\\services\\iapikeyproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61426939-EBC4-4918-B9A1-FB881009C01E}|ITI.Grpc.Client\\ITI.Grpc.Client.csproj|solutionrelative:iti.grpc.client\\services\\iapikeyproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\handler\\apikeyauthonticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.server\\handler\\apikeyauthonticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\handler\\apikeyauthonticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\services\\apikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.server\\services\\apikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\apikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\services\\iapikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.server\\services\\iapikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\services\\iapikeyauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|d:\\iti\\grpc\\iti.grpc.lab\\iti.grpc.server\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|D:\\ITI\\GRPC\\ITI.GRPC.Lab\\iti.grpc.server\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235EA489-1CAC-4C73-8359-1EDFCC197056}|ITI.Grpc.Server\\ITI.Grpc.Server.csproj|solutionrelative:iti.grpc.server\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Client\\appsettings.json",
               "RelativeDocumentMoniker": "ITI.Grpc.Client\\appsettings.json",
               "ToolTip": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Client\\appsettings.json",
               "RelativeToolTip": "ITI.Grpc.Client\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-06T17:48:05.11Z",
               "EditorCaption": ""
@@ -111,8 +111,7 @@
               "RelativeToolTip": "ITI.Grpc.Client\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAWwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:47:41.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:47:41.819Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "ITI.Grpc.Client\\Services\\IApiKeyProviderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:46:25.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:46:25.893Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "ITI.Grpc.Client\\Services\\ApiKeyProviderSerivce.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAD4vxIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:45:31.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:45:31.691Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "ITI.Grpc.Client\\Consts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:44:41.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:44:41.197Z"
             },
             {
               "$type": "Document",
@@ -163,12 +159,11 @@
               "RelativeToolTip": "ITI.Grpc.Server\\Handler\\ApiKeyAuthonticationHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:43:11.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:43:11.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Server\\appsettings.json",
               "RelativeDocumentMoniker": "ITI.Grpc.Server\\appsettings.json",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "ITI.Grpc.Server\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T17:41:13.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:41:13.972Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "ITI.Grpc.Server\\Consts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:39:42.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:39:42.897Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "ITI.Grpc.Server\\Services\\IApiKeyAuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:38:20.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:38:20.37Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "ITI.Grpc.Server\\Services\\ApiKeyAuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:37:19.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:37:19.425Z"
             },
             {
               "$type": "Document",
@@ -228,31 +219,30 @@
               "RelativeToolTip": "Protos\\InventoryServiceProto.proto",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-06-05T22:21:19.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T22:21:19.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "InventroyService.cs",
               "DocumentMoniker": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Server\\Services\\InventroyService.cs",
               "RelativeDocumentMoniker": "ITI.Grpc.Server\\Services\\InventroyService.cs",
               "ToolTip": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Server\\Services\\InventroyService.cs",
               "RelativeToolTip": "ITI.Grpc.Server\\Services\\InventroyService.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAuwGcAAAAFAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwF8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T20:52:04.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StoreController.cs",
               "DocumentMoniker": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Client\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "ITI.Grpc.Client\\Controllers\\StoreController.cs",
               "ToolTip": "D:\\ITI\\GRPC\\ITI.GRPC.Lab\\ITI.Grpc.Client\\Controllers\\StoreController.cs",
               "RelativeToolTip": "ITI.Grpc.Client\\Controllers\\StoreController.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAswGAAAAANAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAYwMEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T18:33:58.723Z",
               "EditorCaption": ""
@@ -279,8 +269,7 @@
               "RelativeToolTip": "ITI.Grpc.Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:23:26.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T18:23:26.62Z"
             }
           ]
         }

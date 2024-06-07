@@ -32,3 +32,4 @@ D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Server\obj\Debug\net8.0\refint\ITI.Grpc.Server
 D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Server\obj\Debug\net8.0\ITI.Grpc.Server.pdb
 D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Server\obj\Debug\net8.0\ITI.Grpc.Server.genruntimeconfig.cache
 D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Server\obj\Debug\net8.0\ref\ITI.Grpc.Server.dll
+D:\ITI\GRPC\ITI.GRPC.Lab\ITI.Grpc.Server\obj\Debug\net8.0\ITI.Grpc.Server.sourcelink.json
